@@ -1,0 +1,11 @@
+{
+  "name": "math-methods-practice",
+  "version": "1.0.0",
+  "description": "A JavaScript practice lab to explore Math methods through unit testing.",
+  "main": "math_methods_unit_tests.js",
+  "scripts": {
+    "test": "node math_methods_unit_tests.js"
+  },
+  "author": "High School Web Dev",
+  "license": "ISC"
+}
